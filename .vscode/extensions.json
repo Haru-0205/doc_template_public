@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "michaelcurrin.auto-commit-msg",
+        "streetsidesoftware.code-spell-checker",
+        "foam.foam-vscode",
+        "bierner.github-markdown-preview",
+        "eamodio.gitlens",
+        "ms-ceintl.vscode-language-pack-ja",
+        "olivertasevski.vscode-space",
+        "vadistic.mdx-inline",
+        "unifiedjs.vscode-mdx",
+        "alefragnani.project-manager",
+        "awxxxxxx.vscode-mdx-checker",
+        "ms-vscode.wordcount"
+    ]
+}
